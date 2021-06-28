@@ -144,3 +144,185 @@ Received Import Request.
 Start importing Assets/HeroEditor/Common/EditorScripts/CharacterEditor.cs using Guid(e9c23b91487e4a87b5a557fee10f2ad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69d4d9bb6f850645b6c1432919e0ae77') in 0.004718 seconds
   Import took 0.008474 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 4027.543492 seconds.
+  path: Assets/HeroEditor/Common/EditorScripts/CharacterReferencesResolver.cs
+  artifactKey: Guid(cc5f98ef9b6644a28d9a98dff908ca86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HeroEditor/Common/EditorScripts/CharacterReferencesResolver.cs using Guid(cc5f98ef9b6644a28d9a98dff908ca86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8d68a772d738942bfe0821bc000a6e9') in 0.005856 seconds
+  Import took 0.010649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.145535 seconds.
+  path: Assets/HeroEditor/Megapack/Scenes/TestRoom [Megapack].unity
+  artifactKey: Guid(21494f4e4290f604c9776b4aa10ce143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HeroEditor/Megapack/Scenes/TestRoom [Megapack].unity using Guid(21494f4e4290f604c9776b4aa10ce143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67825518bd28252e0aea087a1892644f') in 0.014408 seconds
+  Import took 0.017621 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.062297 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.653 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1905 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.2 MB.
+System memory in use after: 100.2 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2361.
+Total: 2.442300 ms (FindLiveObjects: 0.333800 ms CreateObjectMapping: 0.123700 ms MarkObjects: 1.880600 ms  DeleteObjects: 0.102700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 9442.910586 seconds.
+  path: Assets/HeroEditor/MilitaryHeroes/Scenes/TestRoom [MH].unity
+  artifactKey: Guid(2fa87f2227f1484c83ee22c485367fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HeroEditor/MilitaryHeroes/Scenes/TestRoom [MH].unity using Guid(2fa87f2227f1484c83ee22c485367fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '316171e5377e90df480eb29985f6303a') in 0.031730 seconds
+  Import took 0.042626 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.053778 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.688 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1905 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.2 MB.
+System memory in use after: 100.2 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2365.
+Total: 3.907900 ms (FindLiveObjects: 0.336500 ms CreateObjectMapping: 0.144900 ms MarkObjects: 3.235500 ms  DeleteObjects: 0.189300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 112.239871 seconds.
+  path: Assets/Main/Scenes/Main.unity
+  artifactKey: Guid(4d53fa7c3974cfb4da4e356884a109b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main/Scenes/Main.unity using Guid(4d53fa7c3974cfb4da4e356884a109b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '970a42521ed5dd2ad3ea96dea6bacb00') in 0.015479 seconds
+  Import took 0.018911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004696 seconds.
+  path: Assets/Main/Scenes/Main.unity
+  artifactKey: Guid(4d53fa7c3974cfb4da4e356884a109b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main/Scenes/Main.unity using Guid(4d53fa7c3974cfb4da4e356884a109b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '970a42521ed5dd2ad3ea96dea6bacb00') in 0.030417 seconds
+  Import took 0.034186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.771119 seconds.
+  path: Assets/HeroEditor/MilitaryHeroes/Icons/WithoutBackground/Equipment/MeleeWeapon1H/Basic/Baton/PolicemanBaton.png
+  artifactKey: Guid(6730e483f0f842fda0de99d83477df11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HeroEditor/MilitaryHeroes/Icons/WithoutBackground/Equipment/MeleeWeapon1H/Basic/Baton/PolicemanBaton.png using Guid(6730e483f0f842fda0de99d83477df11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e067b699892df6a4de826443f5bdfd0') in 3.427975 seconds
+  Import took 7.509623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/HeroEditor/MilitaryHeroes/Icons/WithoutBackground/Equipment/MeleeWeapon1H/Basic/Baton/PinBaseballBat.png
+  artifactKey: Guid(ce0610a942e34e5399f66fd94b6e024a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HeroEditor/MilitaryHeroes/Icons/WithoutBackground/Equipment/MeleeWeapon1H/Basic/Baton/PinBaseballBat.png using Guid(ce0610a942e34e5399f66fd94b6e024a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '495b3f8dd9b32420e0b69acc9f9274f8') in 0.323833 seconds
+  Import took 0.356378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/HeroEditor/MilitaryHeroes/Icons/WithoutBackground/Equipment/MeleeWeapon1H/Basic/Baton/BaseballBat.png
+  artifactKey: Guid(26831e81492143219f5058c3bdbed3f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HeroEditor/MilitaryHeroes/Icons/WithoutBackground/Equipment/MeleeWeapon1H/Basic/Baton/BaseballBat.png using Guid(26831e81492143219f5058c3bdbed3f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58fc65cdfe656969e32432b90b175d35') in 0.142373 seconds
+  Import took 0.172930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.734761 seconds.
+  path: Assets/HeroEditor/MilitaryHeroes/Resources/IconCollection.asset
+  artifactKey: Guid(02b637bcd5f74ade9a1523036cf7e8db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HeroEditor/MilitaryHeroes/Resources/IconCollection.asset using Guid(02b637bcd5f74ade9a1523036cf7e8db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '002ea62c19af261cbeb8a046e2af9bf6') in 0.592418 seconds
+  Import took 0.629556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.283258 seconds.
+  path: Assets/HeroEditor/MilitaryHeroes/Resources/FirearmCollection.asset
+  artifactKey: Guid(585ff469102c4dcfa07808be382b147f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HeroEditor/MilitaryHeroes/Resources/FirearmCollection.asset using Guid(585ff469102c4dcfa07808be382b147f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26879d441b8eb9a1e7819f3af16cee58') in 0.115482 seconds
+  Import took 0.133307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.497444 seconds.
+  path: Assets/HeroEditor/WesternHeroes/Scenes/TestRoom [WH].unity
+  artifactKey: Guid(e52ec8a282914411a129da783d866d14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HeroEditor/WesternHeroes/Scenes/TestRoom [WH].unity using Guid(e52ec8a282914411a129da783d866d14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '028dfdc22e72b09cdcd19b8fb712b65c') in 0.006351 seconds
+  Import took 0.024123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.714848 seconds.
+  path: Assets/HeroEditor/Megapack/Resources/SpriteCollection.asset
+  artifactKey: Guid(ea12bd5655e5a4a4794bdff9225dd4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HeroEditor/Megapack/Resources/SpriteCollection.asset using Guid(ea12bd5655e5a4a4794bdff9225dd4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b6e1a47a159c1780bb525fbd121be93') in 0.059684 seconds
+  Import took 0.079648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004039 seconds.
+  path: Assets/HeroEditor/Megapack/Resources/SpriteCollection.asset
+  artifactKey: Guid(ea12bd5655e5a4a4794bdff9225dd4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HeroEditor/Megapack/Resources/SpriteCollection.asset using Guid(ea12bd5655e5a4a4794bdff9225dd4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b6e1a47a159c1780bb525fbd121be93') in 0.038958 seconds
+  Import took 0.059605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.474121 seconds.
+  path: Assets/HeroEditor/Megapack/Resources/IconCollection.asset
+  artifactKey: Guid(98ed2473dafd6294b9c1f1b6c9f1b974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HeroEditor/Megapack/Resources/IconCollection.asset using Guid(98ed2473dafd6294b9c1f1b6c9f1b974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5586022e7352ca548ba7af23f72af4b') in 0.951274 seconds
+  Import took 1.095419 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.066106 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.904 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1905 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 148.5 MB.
+System memory in use after: 149.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 12067.
+Total: 11.097600 ms (FindLiveObjects: 1.126400 ms CreateObjectMapping: 1.072000 ms MarkObjects: 8.766300 ms  DeleteObjects: 0.131200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
